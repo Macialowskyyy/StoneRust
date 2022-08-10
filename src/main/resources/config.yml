@@ -1,0 +1,28 @@
+mysql:
+  host: "localhost"
+  port: "3306"
+  data: "mysql"
+  user: "root"
+  pass: "-snip-"
+  ssl: false
+
+border:
+  one:
+    x: 999
+    z: 999
+  two:
+    x: -999
+    z: -999
+
+
+
+others:
+  hp: 300
+
+tools:
+  wood: 1
+  stone: 1
+  iron: 1
+  gold: 1
+  diax: 10
+  nethe: 1

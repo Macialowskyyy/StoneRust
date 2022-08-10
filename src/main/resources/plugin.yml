@@ -1,0 +1,8 @@
+name: StoneRust
+version: '${project.version}'
+main: me.macialowskyyy.stonerust.main.Main
+api-version: 1.18
+authors: [ Macialowskyyy ]
+description: StoneRust
+website: Macialowskyyy#6073
+softdepend: [HolographicDisplays]
